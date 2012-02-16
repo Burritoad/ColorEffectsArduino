@@ -1,0 +1,1 @@
+This is just rough stuff, it relies on port manipulation so you need to have 'DDRB = DDRB | B100000;' in your setup, only the first bit needs to be a 1.
